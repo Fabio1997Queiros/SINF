@@ -1,6 +1,10 @@
 # SINF
+
 Project for SINF.
+
 Home Automation information System (HAS)
+
+
 O Home Automation information System, abreviado para HAS, é um sistema capaz de controlar e gerir uma habitação, possibilitando ao utilizador melhorar a sua qualidade de vida, tentando evitar desperdícios energéticos.
 O HAS tem como público-alvo todos os proprietários de habitações e cadeias de imobiliário com o intuito à habitação.
 Uma das questões que tem vindo a preocupar a comunidade mundial é o desperdício energético, muito por causa do uso desregulado no setor doméstico. Para tal, o sistema HAS surge como uma solução capaz de reduzir estas perdas, aumentando a eficiência da habitação, reduzindo os custos associados à sua utilização e manutenção, sem comprometer o conforto do seu utilizador.
